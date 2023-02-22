@@ -1,10 +1,23 @@
-# Byte-compiled / optimized / DLL files
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+node_modules/
+vendor/
+venv/
+.venv/
+env/
 __pycache__/
-*.py[cod]
-*$py.class
-
-# Environment
-.env
-assets/output
-
-.idea
+*.pyc
+*.egg-info/
+.tox/
+.bundle/
+Pods/
+.gradle/
+.terraform/
+bower_components/
+.cache/
+coverage/
